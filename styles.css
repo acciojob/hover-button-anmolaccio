@@ -1,2 +1,8 @@
-
+#btn{
+	background-color:black;
+	font-color:white;
+	border-radius:5px;
+	border:none;
+	button-type:submit;
+}
 /* Your CSS Code here. */
